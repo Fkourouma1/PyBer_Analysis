@@ -1,2 +1,2 @@
 # PyBer_Analysis
-In this project, we are helping a a ride sharing App company, PyBer, analyze Analyze all the rideshare data from January to May 2019 and create a compelling visualization for the CEO .
+In this project, we are helping a a ride sharing App company, PyBer, analyze all the rideshare data from January to May 2019 and create a compelling visualization for the CEO . Using Python and Pandas, we will create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, we will create some graphs that shows the total weekly fares for each city type. We will conclude by writing a report that summarizes how the data differs by city type and how those differences can be used by the CEO at PyBer.
