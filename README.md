@@ -15,6 +15,7 @@ Pyber total fares was as followed:
   - Urban: 39,854.38
   - Suburban: 19,356.33
   - Rural: 4,327.93
+On the weekly ride fare, we calculated the weelky total fares per city type dans per date using the sum() method. We noticed that the total weelky ride fares for Urban were higher than the 2 other city type.(Please see images attached) 
 ## Summary
 From our graph, we shows that the Urban line graph is is permanently fluctuating but stable except the mid Mars- April where the fare dramatically dropped and start going up. The Suburban was way lower than the Urban. Finally the Rural is the city type which is not moving at all and where will the company will need to worked on to bring the total fares highger. 
 ### Provide three business recommendations to the CEO for addressing any disparities among the city types
